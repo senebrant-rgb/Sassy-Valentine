@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://open.spotify.com/track/1jXfVzMk8cSbvAXMML4Y4f?si=84c055681d9e4e1d", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/df9zxonmm/video/upload/v1769953423/Lauv_-_I_Like_Me_Better_Lyrics_-_7clouds_rykbgt.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
